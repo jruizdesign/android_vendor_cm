@@ -21,7 +21,7 @@ add_lunch_combo cm_grouper-userdebug
 #add_lunch_combo cm_i9300-userdebug
 #add_lunch_combo cm_iyokan-userdebug
 #add_lunch_combo cm_mango-userdebug
-add_lunch_combo cm_maguro-userdebug
+#add_lunch_combo cm_maguro-userdebug
 #add_lunch_combo cm_n7000-userdebug
 #add_lunch_combo cm_p1-userdebug
 #add_lunch_combo cm_p1c-userdebug
@@ -46,8 +46,8 @@ add_lunch_combo cm_maguro-userdebug
 #add_lunch_combo cm_tf101-userdebug
 #add_lunch_combo cm_tf201-userdebug
 #add_lunch_combo cm_tf300t-userdebug
-add_lunch_combo cm_toro-userdebug
-add_lunch_combo cm_toroplus-userdebug
+#add_lunch_combo cm_toro-userdebug
+#add_lunch_combo cm_toroplus-userdebug
 #add_lunch_combo cm_urushi-userdebug
 #add_lunch_combo cm_vibrantmtd-userdebug
 #add_lunch_combo cm_wingray-userdebug
