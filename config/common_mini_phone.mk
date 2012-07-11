@@ -2,7 +2,7 @@
 $(call inherit-product, vendor/cm/config/common.mk)
 
 # Bring in some old audio files
-$(call inherit-product, frameworks/base/data/sounds/OldAudio.mk)
+$(call inherit-product, frameworks/base/data/sounds/AllAudio.mk)
 
 # Include CM audio files
 #include vendor/cm/config/cm_audio.mk
