@@ -139,7 +139,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     VoiceDialer \
     SoundRecorder \
+<<<<<<< HEAD
     LiveWallpapersPicker
+=======
+    Basic
+>>>>>>> a69dc02... cm: Move wallpapers to a common_full Makefile.
 
 # Custom CM packages
 PRODUCT_PACKAGES += \
